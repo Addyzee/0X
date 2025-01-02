@@ -9,5 +9,5 @@ GUI version of tic-tac-toe game: `main_gui.py`
 ![CLI](/ss3.png)
 
 ### References:
-[Real Python](https://realpython.com/tic-tac-toe-python/)
+[Real Python](https://realpython.com/tic-tac-toe-python/)<br>
 CLI version from Don
