@@ -1,0 +1,21 @@
+{
+    "project_name": "TicTacToe Tkinter",
+    "year": 2024,
+    "status": "Complete",
+    "keywords": [
+        "TicTacToe",
+        "Tkinter",
+        "GUI Application",
+        "Python",
+        "Game Development",
+        "Event-driven Programming"
+    ],
+    "languages/tools": [
+        "Python",
+        "Tkinter",
+        "Object-Oriented Programming"
+    ],
+    "contributors": [
+        "Me"
+    ]
+}
